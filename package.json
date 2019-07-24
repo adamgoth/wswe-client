@@ -1,5 +1,5 @@
 {
-  "name": "what-should-we-eat",
+  "name": "wswe-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
