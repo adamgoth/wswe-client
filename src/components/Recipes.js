@@ -7,6 +7,7 @@ const Recipes = () => (
     query={gql`
       {
         recipes {
+          id
           title
           link
         }

@@ -1,8 +1,8 @@
 import React from "react";
 import ApolloClient from "apollo-boost";
 import { ApolloProvider } from "react-apollo";
-import Recipes from "./Recipes";
-import AddRecipe from "./AddRecipe";
+import Recipes from "./components/Recipes";
+import AddRecipe from "./components/AddRecipe";
 
 import "./App.css";
 
